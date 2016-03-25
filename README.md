@@ -1,3 +1,3 @@
-# IRA IS A BOOGER
+# ARCHITA LOVES CANDY
 awesome-gaming
 I LIKE GAMING
