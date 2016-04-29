@@ -4,11 +4,13 @@ p {
 h1 {
   color: deepskyblue;
   font-size: 30px;
+  font-style: oblique;
+  
 }
 h2 {
  color : indigo ;
  font-size:20px;
-  font-style: italic;
+ font-style: italic;
 }
 
   
