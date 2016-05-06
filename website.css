@@ -20,3 +20,12 @@ h3 {
  font-style: italic;
   
 }
+
+.nav{
+  background: blue ;
+  float: left ;
+  padding: 10px;
+  border: 4px dashed purple;
+  border-radius:4 px;
+  
+}
