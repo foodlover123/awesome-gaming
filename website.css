@@ -22,7 +22,7 @@ h3 {
 }
 
 .nav{
-  background: blue ;
+  background:#ffaaee ; /* :#rrggbb */
   float: left ;
   padding: 10px;
   border: 4px dashed purple;
